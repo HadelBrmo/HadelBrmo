@@ -53,8 +53,7 @@ My core focus is on writing **clean, maintainable code** following the best soft
 
 <div align="center">
 
-![Hadel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadelBrmo&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadelBrmo&layout=compact&theme=dark)
+![Hadel's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=HadelBrmo&show_icons=true&theme=dark)
 
 </div>
 
