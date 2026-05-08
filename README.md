@@ -53,7 +53,7 @@ My core focus is on writing **clean, maintainable code** following the best soft
 
 <div align="center">
 
-![Hadel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadelBrmo&show_icons=true&theme=dark&rank_icon=github&count_private=true)
+![Hadel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadelBrmo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadelBrmo&layout=compact&theme=dark)
 
 </div>
@@ -62,9 +62,9 @@ My core focus is on writing **clean, maintainable code** following the best soft
 
 ### 📫 How to reach me
 
-- 📧 **Email:** [hadelbr90@gmail.com](mailto:hadelbr90@gmail.com)
-- 💼 **LinkedIn:** [Hadel Brmo](https://www.linkedin.com/in/hadel-brmo-041085365)
-- ✈️ **Telegram:** [Contact Me](https://t.me/HadelBrmo)
+- Email: [hadelbr90@gmail.com](mailto:hadelbr90@gmail.com)
+- LinkedIn: [Hadel Brmo](https://www.linkedin.com/in/hadel-brmo-041085365)
+- Telegram: [Contact Me](https://t.me/HadelBrmo)
 
 ---
 
