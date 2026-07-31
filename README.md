@@ -29,7 +29,7 @@ My core focus is on writing **clean, maintainable code** following the best soft
 | **Architecture & State** | **Clean Architecture**, Bloc Pattern, GetX, Dartz (Functional Programming) |
 | **Backend & Database** | Firebase (Auth, Firestore, Messaging), Hive/Isar (Local Storage) |
 | **Real-time & Media** | Socket.IO, WebRTC |
-| **Tools & DevOps** | Git, GitHub, GitLab, Jira, Agile/Scrum, Figma, Android Studio, VS Code |
+| **Tools & DevOps** | Git, GitLab, Jira, Agile/Scrum, Figma, Android Studio, VS Code |
 
 ---
 
